@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1540299460 source:c:\users\bonnie\desktop\b0529013-hw1\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<GL/glut.h>
+	<math.h>
+
+1538493906 c:\users\bonnie\desktop\glutming\glutmingw32\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
